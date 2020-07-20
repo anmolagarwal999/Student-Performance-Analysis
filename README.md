@@ -1,6 +1,7 @@
 # Student-Performance-Analysis
 
-This is supposed to my first shot at data analysis. The task to be performed is simple basic analysis of the dataset and to infer useful facts and patterns.
+This is supposed to my first shot at data analysis. The task to be performed is a simple basic analysis of the dataset and to infer useful facts and patterns.
+It also serves as a practice to get an idea about numpy syntax.
 
 ## Dataset
 
@@ -25,3 +26,6 @@ To understand the how the student's performance (test scores) is affected by the
 * To test the underlying assumptions.
 * Provide Insights with Suitable Graphs and Visualizations.
 * Write all your inferences with supporting Analysis and Visualizations.
+
+## Files
+The data was imported from the **.csv** file and the analysis can be found in the **.ipynb** file.
