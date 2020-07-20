@@ -1,6 +1,6 @@
 # Student-Performance-Analysis
 
-This is supposed to my first shot at data analysis. The task to be performed is a simple basic analysis of the dataset and to infer useful facts and patterns.
+This is supposed to my first beginner's shot at data analysis. The task to be performed is a simple basic analysis of the dataset and to infer useful facts and patterns.
 It also serves as a practice to get an idea about numpy syntax.
 
 ## Dataset
